@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Peiyi</h1>
-<h3 align="center">A third-year student in the Math & Stats - Stats Spec Program</h3>
+<h3 align="center">A forth-year student in the Math & Stats - Stats Spec Program</h3>
 
-- 🌱 I’m currently learning **Haskell, Stochastic Processes, Applied Regression Analysis With SAS.**
+- 🌱 I have taken coursework in Neural Networks and Machine Learning, Time Series, Applied Regression, Probability Theory, and Stochastic Processes.
 
 - 💡 I have a strong interest in **data analysis, data science, and machine learning.**
 
-- 📍 I'm currently on the lookout for **a Winter 2025 Co-op opportunity.**
+- 📍 I'm currently on the lookout for **a Summer 2026 Co-op opportunity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
